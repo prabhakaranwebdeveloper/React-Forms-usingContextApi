@@ -101,7 +101,7 @@ export default function Signup() {
           Reset
         </button>
         <a href="/">
-          <button type="submit" className="button">
+          <button type="button" className="button">
             Sign up
           </button>
         </a>
